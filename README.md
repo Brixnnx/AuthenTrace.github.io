@@ -16,8 +16,11 @@ AuthenTrace está dirigido principalmente a:
 - Departamentos de recursos humanos.
 
 Las funcionalidades principales de la landing page de AuthenTrace incluyen:
-- Registro de usuarios y autenticación: permite a los usuarios crear cuentas seguras y acceder a la plataforma.
-- Demostración del producto: ofrece videos y material interactivo que explican el funcionamiento de la detección de fraudes en firmas.
-- Acceso a la versión de prueba: los usuarios pueden explorar una demo limitada para probar la verificación de firmas.
-- Sección de entrevistas y testimonios: muestra opiniones y experiencias de usuarios, destacando la utilidad del producto.
-- Contactos y asistencia: ofrece medios de contacto para soporte técnico y consultas sobre el producto.
+1. Home: Página de inicio con una introducción al producto, sus beneficios y enlaces a secciones clave.
+2. Nosotros: Sección dedicada a la presentación de la empresa y su misión, destacando el equipo detrás de AuthenTrace y los valores de la plataforma.
+3. Servicios: Expone las soluciones de verificación de firmas y las herramientas de detección de fraudes que ofrece la plataforma. Aquí, los usuarios pueden conocer en profundidad los servicios específicos y el valor agregado de cada uno.
+4. Soporte:
+  - Guías/Tutoriales: Incluye materiales instructivos sobre cómo usar la aplicación.
+  - Chat con IA: Herramienta de asistencia automatizada para responder preguntas en tiempo real, orientada a resolver dudas y ayudar en el uso de la plataforma.
+  - Preguntas Frecuentes (FAQ): Sección donde se abordan las consultas más comunes para facilitar el autoservicio.
+5. Iniciar sesión: Acceso para usuarios registrados, permitiendo ingresar al sistema de verificación de firmas y acceder a sus funcionalidades avanzadas.
